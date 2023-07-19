@@ -1,0 +1,13 @@
+Petal for the Medal - Final project for Vision and perception
+Raul Perez Jorda (2056613)
+
+Kaggle code url: https://www.kaggle.com/code/rauljorda/my-petal-for-the-medal
+
+Multi-label image classifier among 104 different species using
+  - TPU training processing
+  - Transfer learning
+  - Dropout
+  - Batch normalization
+  - Data augmentation
+  - Fully connected layers
+  - Optimizers
